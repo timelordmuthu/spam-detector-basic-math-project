@@ -1,0 +1,6 @@
+word,msgs_with_word,spam_with_word,P(Word),P(Word|Spam),P(Spam|Word) direct,P(Spam|Word) Bayes,match
+free,199,144,0.0386,0.2243,0.7236,0.7236,True
+prize,70,70,0.0136,0.109,1.0,1.0,True
+win,53,47,0.0103,0.0732,0.8868,0.8868,True
+urgent,61,56,0.0118,0.0872,0.918,0.918,True
+offer,30,24,0.0058,0.0374,0.8,0.8,True

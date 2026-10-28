@@ -1,0 +1,12 @@
+CLEANED DATASET SUMMARY
+=======================
+Total unique messages : 5160
+Spam (Y=1)            : 642
+Ham  (Y=0)            : 4518
+P(Spam)               : 0.1244
+P(Ham)                : 0.8756
+E(Y)                  : 0.1244
+Var(Y)                : 0.1089
+Mean message length   : 79.1 characters
+Mean length (spam)    : 137.4
+Mean length (ham)     : 70.9
